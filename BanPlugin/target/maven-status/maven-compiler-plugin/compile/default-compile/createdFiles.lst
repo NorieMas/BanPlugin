@@ -1,8 +1,0 @@
-com\noriemas\banplugin\commands\HistoryCommand.class
-com\noriemas\banplugin\Utils.class
-com\noriemas\banplugin\BanEntry.class
-com\noriemas\banplugin\BanPlugin.class
-com\noriemas\banplugin\commands\BanCommand.class
-com\noriemas\banplugin\commands\UnbanCommand.class
-com\noriemas\banplugin\BanManager.class
-com\noriemas\banplugin\listeners\PlayerJoinListener.class
