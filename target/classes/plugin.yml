@@ -1,0 +1,17 @@
+name: BanPlugin
+version: '1.0-SNAPSHOT'
+main: com.noriemas.banplugin.BanPlugin
+api-version: 1.19
+authors:
+  - NorieMas
+commands:
+  ban:
+    description: Ban a player
+    usage: /ban
+    aliases: /tempban
+  unban:
+    description: Unban a player
+    usage: /unban
+  history:
+    description: History a player
+    usage: /history
